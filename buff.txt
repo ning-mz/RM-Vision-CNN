@@ -1,0 +1,3 @@
+0  armor
+1  done
+2  shoot
